@@ -6,7 +6,7 @@ export default function App() {
   return (
     <SafeAreaView style={styles.container}>
       <StatusBar style="auto" translucent={false} />
-      <Text>Open up App.js to start working on your app!</Text>
+      <Text>Welcome to Stereo!</Text>
     </SafeAreaView>
   );
 }
